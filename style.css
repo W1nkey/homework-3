@@ -1,0 +1,25 @@
+* {
+  color: blueviolet;
+}
+
+h2 {
+  background-color: red;
+  color: aqua;
+  text-transform: lowercase;
+}
+
+.filter {
+  width: 89px;
+  height: 19px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: brown;
+}
+
+.filter {
+  color: black;
+}
